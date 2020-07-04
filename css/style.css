@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.carousel-item img{
+	height: 500px;
+}
+.justify{
+	align-items: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px 
+}
+.img{
+	max-width: 100%;
+}
+.textbook{
+	margin-right: 50px;
+	color: grey;
+	font-size: 15px;
+	text-align: justify;
+}
+
+.text-align{
+	text-align: center;
+
+}
+.text-align01{
+	text-align: center;
+	color: grey;
+	font-size: 15px;
+	
+}
+.text-align02{
+	text-align: center;
+	font-weight: 800;}
+	.padding20{
+		padding: 84px;
+	}
